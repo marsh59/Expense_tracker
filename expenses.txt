@@ -1,0 +1,5 @@
+food,1000.0
+music,2000.0
+food,1000.0
+travel,5000.0
+music,10000.0
